@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp> 
-    I am doing machine learning on a daily basis as a lab slave trying to obtain my degree. I mostly speak Python and Pascal.
+    I am doing machine learning on a daily basis as a lab slave trying to obtain my PhD degree. I mostly speak Python and Pascal.
   </samp>    
 </p>
 
