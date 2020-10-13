@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp> 
-    I am doing machine learning on a daily basis as a lab slave trying to obtain my PhD degree. I mostly speak Python and Pascal. Python is my daily driver for my research works, and pascal is my bread-and-butter to learn by creating neat stuffs.
+    I am doing machine learning on a daily basis while trying to obtain my PhD degree. I mostly speak Python and Pascal. Python is my daily driver for my research works, and pascal is my bread-and-butter to learn by creating neat stuffs.
   </samp>    
 </p>
 
