@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp> 
-    I am doing machine learning on a daily basis. I mostly speak Python and Pascal. Python is my daily driver for my research works, and pascal is my bread-and-butter to learn by creating neat stuffs.
+    I am doing machine learning on a daily basis, but I also love to tinker in other domains.
   </samp>    
 </p>
 
